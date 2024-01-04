@@ -2,7 +2,7 @@
 
 - 🌱 I am currently studying about Information Security, class of 2025 at UIT </br>
 - 👯 I am imterested in web-security </br>
-- 🤝 I am seeking for Intern as Risk Advisory, Cybersecurity consultant </br>
+- 🤝 I am seeking for Intern as Risk Advisory, Associate and Cybersecurity consultant </br>
 ### 📫 How to Connect 📫
 For futhur work, feel free to contact me via:
 - 📘 **Linkedin**: <a href="https://www.linkedin.com/in/hnuynnhi/" >Nhi Huynh Nguyen Uyen</a> | www.linkedin.com/in/hnuynnhi
