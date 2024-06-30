@@ -1,7 +1,6 @@
 ### Hi friends. It's @minendie here and I'm delighted to have you drop by my github profile👋
 
 - 🌱 I am currently studying about Information Security, class of 2025 at UIT </br>
-- 👯 I am imterested in web-security </br>
 - 🤝 I am seeking for Intern as Risk Advisory, Associate and Cybersecurity consultant </br>
 ### 📫 How to Connect 📫
 For futhur work, feel free to contact me via:
